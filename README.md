@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oyvind-salvesen
-- 👀 I’m interested in learning and extend my knowledge within languages like C, C++, python & c#
+- 👀 I’m interested in learning and extend my knowledge within languages like C, C++, python & c#. I think machine learning and AI interests me along with system and control techniques for controlling different processes.
 - 🌱 I’m currently learning to document my work in a proper way
 - 💞️ I’m looking to collaborate on all my ongoing and future projects
 - 📫 How to reach me os@inventas.no
